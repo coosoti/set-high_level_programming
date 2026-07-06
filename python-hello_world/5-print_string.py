@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-str = "SET"
+str = "Elmwood Institute"
 print("{}{}{}".format(str, str, str))
 print(str[:9])
