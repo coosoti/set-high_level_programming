@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-str = "Elmwood Institute"
+str = "SET"
 print(str * 3)
 print(str[:9])
